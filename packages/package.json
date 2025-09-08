@@ -1,0 +1,16 @@
+{
+  "name": "ssu-p5-js",
+  "version": "0.0.1",
+  "description": "미디어앤테크 수업용 프로젝트 템플릿",
+  "bin": {
+    "ssu-catch-lyrics": "bin/generator.js"
+  },
+  "private": false,
+  "keywords": [
+    "react",
+    "boilerplate"
+  ],
+  "dependencies": {
+    "fs-extra": "^11.3.0"
+  }
+}
