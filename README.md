@@ -1,3 +1,3 @@
 ```
-$ npx ssu-p5-js-boilerplate
+$ npx ssu-p5-js
 ```
