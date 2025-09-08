@@ -37,7 +37,7 @@ async function generator() {
     execSync(`git clone ${GIT_REPO} ${tempPath}`);
 
     console.log("[INFO]: 파일 복사 중...");
-    copySync(`${tempPath}/react-boilerplate`, projectPath);
+    copySync(`${tempPath}/ssu-p5-js`, projectPath);
 
     removeSync(tempPath);
 

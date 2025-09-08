@@ -19,6 +19,8 @@ fnm use 24
 
 ### 2. pnpm 설치
 
+npm이나 yarn사용할거면 2, 3번 스킵, 스킵하는 경우 pnpm-lock.yaml 파일은 지워주기
+
 ```bash
 npm install -g pnpm
 ```
